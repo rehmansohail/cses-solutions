@@ -1,1 +1,1 @@
-# cses-solutions
+solutions for [this](https://cses.fi/problemset/list/) problem set in C++
